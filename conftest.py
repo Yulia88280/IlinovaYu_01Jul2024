@@ -9,7 +9,7 @@ def base_url():
 
 @pytest.fixture(scope="session")
 def session_id():
-    return "3T0AKUEjfqq8gz0M7tpUkIle5SJf77WD"
+    return "ggIeAMkqKGmqJjPI2lMxArpRo14e0Gy1"
 
 @pytest.fixture
 def headers(session_id):
